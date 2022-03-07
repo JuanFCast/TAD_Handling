@@ -1,0 +1,26 @@
+EJEMPLOS:
+
+INYECTIVA
+DOMINIO ( 1,2,3
+CODOMINIO ( 1,2,3,4
+
+Set: { (1,1), (2,2), (3,3) }
+
+
+SOBREYECTIVA
+DOMINIO ( 1,2,3
+CODOMINIO ( 1,2,3,4
+
+Set: { (1,1), (2,2), (3,2) }
+
+BIYECTIVA
+DOMINIO ( 1,2,3
+CODOMINIO ( 1,2,3
+
+Set: { (1,1), (2,2), (3,3) }
+
+NO FUNCION
+DOMINIO ( 1,2,3
+CODOMINIO ( 1,2,3
+
+Pares: { (1,1), (1,2), (3,3) }
